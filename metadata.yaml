@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '38843'
     url: http://www.gutenberg.org/2009/agents/38843
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45826#Holland-en-de-oorlog
 gutenberg_issued: '2014-05-30'
 gutenberg_type: Text
 identifiers:
